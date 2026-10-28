@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>杏林溯源 · 站点自检</title>
+<style>
+  body { font-family: "Consolas", "Noto Sans SC", monospace; background: #f7f1e3; color: #2b2b26; margin: 0; padding: 24px; }
+  h1 { font-size: 20px; letter-spacing: 2px; color: #b03a2e; }
+  pre { background: #fffdf6; border: 1px solid #d8cbb0; border-radius: 6px; padding: 16px; line-height: 1.9; font-size: 14px; white-space: pre-wrap; }
+  .ok { color: #1f7a3d; }
+  .err { color: #b03a2e; }
+  a { color: #b03a2e; }
+</style>
+</head>
+<body>
+<h1>杏林溯源 · 站点自检</h1>
+<p>本页用于确认浏览器连接的是哪一台服务器、加载的是哪一版数据。若下方显示「方剂 items 916」「本草 items 683」，说明数据已是最新。</p>
+<pre id="out">加载中…</pre>
+<p><a href="index.html">返回站点首页</a></p>
+<script>
+const files = [
+  "data/formulas.json", "data/herbs.json", "data/physicians.json",
+  "data/book_authors.json", "data/syndromes.json", "data/books/index.json",
+  "js/fangyao.js", "js/app.js"
+];
+(async () => {
+  const out = document.getElementById("out");
+  let txt = "页面时间: " + new Date().toLocaleString() + "\n";
+  txt += "站点构建: 2026-10-27-v6（方剂916 / 本草683 / 医家76）\n\n";
+  for (const f of files) {
+    try {
+      const r = await fetch(f + "?t=" + Date.now(), { cache: "no-store" });
+      const t = await r.text();
+      let info = "HTTP " + r.status + "  " + t.length + " 字节";
+      if (f.endsWith(".json")) {
+        const j = JSON.parse(t);
+        if (Array.isArray(j)) info += "  items " + j.length;
+        else if (j.items) info += "  items " + j.items.length + "  syndromes " + (j.syndromes || []).length;
+        else info += "  keys " + Object.keys(j).length;
+      } else if (f.indexOf("fangyao") >= 0) {
+        info += (t.indexOf("医案处方统计") >= 0 ? "  ✔ 含医案筛选" : "  ✘ 旧版脚本");
+      }
+      txt += "✔ " + f + "  " + info + "\n";
+    } catch (e) {
+      txt += "✘ " + f + "  " + e.message + "\n";
+    }
+  }
+  out.textContent = txt;
+})();
+</script>
+</body>
+</html>
