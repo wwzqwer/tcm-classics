@@ -1,0 +1,994 @@
+{
+"伤寒论": {
+"id": "hf_fe976d1c06",
+"title": "伤寒论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张仲景（张机）",
+"physician_short": "张仲景"
+},
+"金匮要略": {
+"id": "jinkui",
+"title": "金匮要略",
+"author": "张仲景",
+"dynasty": "东汉",
+"physician": "张仲景（张机）",
+"physician_short": "张仲景"
+},
+"黄帝内经·素问": {
+"id": "suwen",
+"title": "黄帝内经·素问",
+"author": "佚名（托名黄帝）",
+"dynasty": "战国至西汉",
+"physician": "",
+"physician_short": ""
+},
+"灵枢经": {
+"id": "hf_c79dcce6f5",
+"title": "灵枢经",
+"author": "佚名",
+"dynasty": "—",
+"physician": "王冰",
+"physician_short": "王冰"
+},
+"神农本草经": {
+"id": "shennong",
+"title": "神农本草经",
+"author": "佚名（托名神农）",
+"dynasty": "东汉",
+"physician": "",
+"physician_short": ""
+},
+"难经（节选）": {
+"id": "nanjing",
+"title": "难经（节选）",
+"author": "秦越人（扁鹊）",
+"dynasty": "战国",
+"physician": "扁鹊（秦越人）",
+"physician_short": "扁鹊"
+},
+"脾胃论": {
+"id": "piweilun",
+"title": "脾胃论",
+"author": "李杲（东垣）",
+"dynasty": "金元",
+"physician": "李杲（李东垣）",
+"physician_short": "李杲"
+},
+"内外伤辨惑论": {
+"id": "neiwaishang",
+"title": "内外伤辨惑论",
+"author": "李杲（东垣）",
+"dynasty": "金元",
+"physician": "李杲（李东垣）",
+"physician_short": "李杲"
+},
+"温病条辨": {
+"id": "hf_f9bd5a95fd",
+"title": "温病条辨",
+"author": "佚名",
+"dynasty": "—",
+"physician": "吴瑭（吴鞠通）",
+"physician_short": "吴瑭"
+},
+"温热论": {
+"id": "hf_097e52f832",
+"title": "温热论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "叶桂（叶天士）",
+"physician_short": "叶桂"
+},
+"医林改错": {
+"id": "yilingaicuo",
+"title": "医林改错",
+"author": "王清任",
+"dynasty": "清",
+"physician": "王清任",
+"physician_short": "王清任"
+},
+"血证论（节选）": {
+"id": "xuezhenglun",
+"title": "血证论（节选）",
+"author": "唐宗海（容川）",
+"dynasty": "清",
+"physician": "唐宗海（唐容川）",
+"physician_short": "唐宗海"
+},
+"汤头歌诀": {
+"id": "tangtou",
+"title": "汤头歌诀",
+"author": "汪昂",
+"dynasty": "清",
+"physician": "汪昂",
+"physician_short": "汪昂"
+},
+"仲景伤寒补亡论": {
+"id": "hf_eba6fac41a",
+"title": "仲景伤寒补亡论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "郭雍",
+"physician_short": "郭雍"
+},
+"伤寒九十论": {
+"id": "hf_c21c540c07",
+"title": "伤寒九十论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "许叔微",
+"physician_short": "许叔微"
+},
+"伤寒六书": {
+"id": "hf_1dae16ef64",
+"title": "伤寒六书",
+"author": "佚名",
+"dynasty": "—",
+"physician": "陶华",
+"physician_short": "陶华"
+},
+"伤寒兼证析义": {
+"id": "hf_9ae3f6c72a",
+"title": "伤寒兼证析义",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张倬",
+"physician_short": "张倬"
+},
+"伤寒医诀串解": {
+"id": "hf_c934e7ac7e",
+"title": "伤寒医诀串解",
+"author": "佚名",
+"dynasty": "—",
+"physician": "陈念祖（陈修园）",
+"physician_short": "陈念祖"
+},
+"伤寒发微论": {
+"id": "hf_bf8bda77e5",
+"title": "伤寒发微论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒大白": {
+"id": "hf_5557fe827e",
+"title": "伤寒大白",
+"author": "佚名",
+"dynasty": "—",
+"physician": "高世栻",
+"physician_short": "高世栻"
+},
+"伤寒审证表": {
+"id": "hf_c6a1975710",
+"title": "伤寒审证表",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒寻源": {
+"id": "hf_0fa6f60259",
+"title": "伤寒寻源",
+"author": "佚名",
+"dynasty": "—",
+"physician": "吕震名",
+"physician_short": "吕震名"
+},
+"伤寒心境别集": {
+"id": "hf_d9b18f88b1",
+"title": "伤寒心境别集",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒心法要诀": {
+"id": "hf_2d94c0c1d8",
+"title": "伤寒心法要诀",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒总病论": {
+"id": "hf_30a51bc293",
+"title": "伤寒总病论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "庞安时",
+"physician_short": "庞安时"
+},
+"伤寒悬解": {
+"id": "hf_ab4528434b",
+"title": "伤寒悬解",
+"author": "佚名",
+"dynasty": "—",
+"physician": "黄元御",
+"physician_short": "黄元御"
+},
+"伤寒括要": {
+"id": "hf_7cd0426dce",
+"title": "伤寒括要",
+"author": "佚名",
+"dynasty": "—",
+"physician": "李中梓",
+"physician_short": "李中梓"
+},
+"伤寒指掌": {
+"id": "hf_38193a37a5",
+"title": "伤寒指掌",
+"author": "佚名",
+"dynasty": "—",
+"physician": "吴坤安",
+"physician_short": "吴坤安"
+},
+"伤寒捷诀": {
+"id": "hf_148580a2b7",
+"title": "伤寒捷诀",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒明理论": {
+"id": "hf_817617ec67",
+"title": "伤寒明理论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "成无己",
+"physician_short": "成无己"
+},
+"伤寒杂病论桂林古本": {
+"id": "hf_12fdf2b975",
+"title": "伤寒杂病论桂林古本",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒来苏集": {
+"id": "hf_a4d584adf3",
+"title": "伤寒来苏集",
+"author": "佚名",
+"dynasty": "—",
+"physician": "柯琴",
+"physician_short": "柯琴"
+},
+"伤寒标本心法类萃": {
+"id": "hf_69c96c5c2c",
+"title": "伤寒标本心法类萃",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒法祖": {
+"id": "hf_8bafcf274d",
+"title": "伤寒法祖",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒溯源集": {
+"id": "hf_6120f43b9d",
+"title": "伤寒溯源集",
+"author": "佚名",
+"dynasty": "—",
+"physician": "钱潢",
+"physician_short": "钱潢"
+},
+"伤寒百证歌": {
+"id": "hf_00b86007e3",
+"title": "伤寒百证歌",
+"author": "佚名",
+"dynasty": "—",
+"physician": "许叔微",
+"physician_short": "许叔微"
+},
+"伤寒直格": {
+"id": "hf_d80e2a0c7d",
+"title": "伤寒直格",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒缵论": {
+"id": "hf_a621ae3dc2",
+"title": "伤寒缵论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张璐",
+"physician_short": "张璐"
+},
+"伤寒舌鉴": {
+"id": "hf_6192cc49ba",
+"title": "伤寒舌鉴",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒补例": {
+"id": "hf_b8cefa1580",
+"title": "伤寒补例",
+"author": "佚名",
+"dynasty": "—",
+"physician": "周学海",
+"physician_short": "周学海"
+},
+"伤寒论宋版": {
+"id": "hf_c1675e3e3c",
+"title": "伤寒论宋版",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒论条辨": {
+"id": "hf_af01d99a34",
+"title": "伤寒论条辨",
+"author": "佚名",
+"dynasty": "—",
+"physician": "方有执",
+"physician_short": "方有执"
+},
+"伤寒论注": {
+"id": "hf_bf773d280c",
+"title": "伤寒论注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "柯琴",
+"physician_short": "柯琴"
+},
+"伤寒论类方": {
+"id": "hf_44ed6b111b",
+"title": "伤寒论类方",
+"author": "佚名",
+"dynasty": "—",
+"physician": "徐大椿（徐灵胎）",
+"physician_short": "徐大椿"
+},
+"伤寒论纲目": {
+"id": "hf_14584e07bd",
+"title": "伤寒论纲目",
+"author": "佚名",
+"dynasty": "—",
+"physician": "沈金鳌",
+"physician_short": "沈金鳌"
+},
+"伤寒论翼": {
+"id": "hf_d46ae23033",
+"title": "伤寒论翼",
+"author": "佚名",
+"dynasty": "—",
+"physician": "柯琴",
+"physician_short": "柯琴"
+},
+"伤寒论辩证广注": {
+"id": "hf_23de2541ee",
+"title": "伤寒论辩证广注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"伤寒论集注": {
+"id": "hf_de638d8bd5",
+"title": "伤寒论集注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张志聪",
+"physician_short": "张志聪"
+},
+"伤寒证治准绳": {
+"id": "hf_b4d84877f1",
+"title": "伤寒证治准绳",
+"author": "佚名",
+"dynasty": "—",
+"physician": "王肯堂",
+"physician_short": "王肯堂"
+},
+"伤寒贯珠集": {
+"id": "hf_d0d9c553fc",
+"title": "伤寒贯珠集",
+"author": "佚名",
+"dynasty": "—",
+"physician": "尤怡",
+"physician_short": "尤怡"
+},
+"伤寒附翼": {
+"id": "hf_1d656febcf",
+"title": "伤寒附翼",
+"author": "佚名",
+"dynasty": "—",
+"physician": "柯琴",
+"physician_short": "柯琴"
+},
+"傷寒兼證析義醫家類": {
+"id": "hf_0d4a502486",
+"title": "傷寒兼證析義醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"傷寒直格方醫家類": {
+"id": "hf_2140455ef9",
+"title": "傷寒直格方醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"傷寒總病論醫家類": {
+"id": "hf_6b6851b21a",
+"title": "傷寒總病論醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"傷寒舌鑑醫家類": {
+"id": "hf_f056e74954",
+"title": "傷寒舌鑑醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"傷寒論條辨醫家類": {
+"id": "hf_3e645da8c4",
+"title": "傷寒論條辨醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"傷寒論注釋醫家類": {
+"id": "hf_8f78a03fda",
+"title": "傷寒論注釋醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"傷寒類方目録醫家類": {
+"id": "hf_ec73f33daf",
+"title": "傷寒類方目録醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"内外傷寒辨惑論醫家類": {
+"id": "hf_309f4f629b",
+"title": "内外傷寒辨惑論醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"刘河间伤寒医鉴": {
+"id": "hf_7c75e5636a",
+"title": "刘河间伤寒医鉴",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"张卿子伤寒论": {
+"id": "hf_880de063bf",
+"title": "张卿子伤寒论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张卿子",
+"physician_short": "张卿子"
+},
+"敖氏伤寒金镜录": {
+"id": "hf_ee5237e50e",
+"title": "敖氏伤寒金镜录",
+"author": "佚名",
+"dynasty": "—",
+"physician": "杜本",
+"physician_short": "杜本"
+},
+"曹氏伤寒金匮发微": {
+"id": "hf_44a1b04b9b",
+"title": "曹氏伤寒金匮发微",
+"author": "佚名",
+"dynasty": "—",
+"physician": "曹颖甫",
+"physician_short": "曹颖甫"
+},
+"桂林古本伤寒杂病论": {
+"id": "hf_c1f07a4578",
+"title": "桂林古本伤寒杂病论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"河间伤寒心要": {
+"id": "hf_56f978db7c",
+"title": "河间伤寒心要",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"注解伤寒论": {
+"id": "hf_bf54d7c78a",
+"title": "注解伤寒论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "成无己",
+"physician_short": "成无己"
+},
+"订正仲景全书伤寒论注": {
+"id": "hf_1ac5ce0cf6",
+"title": "订正仲景全书伤寒论注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"证治准绳·伤寒": {
+"id": "hf_afe97da5c9",
+"title": "证治准绳·伤寒",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"重订通俗伤寒论": {
+"id": "hf_250ece008c",
+"title": "重订通俗伤寒论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "俞根初",
+"physician_short": "俞根初"
+},
+"湿热病篇": {
+"id": "hf_a5b5b819f9",
+"title": "湿热病篇",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"广温疫论": {
+"id": "hf_320440ddc9",
+"title": "广温疫论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "戴天章",
+"physician_short": "戴天章"
+},
+"广瘟疫论": {
+"id": "hf_3b9e7af636",
+"title": "广瘟疫论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"温热暑疫全书": {
+"id": "hf_81f22b3857",
+"title": "温热暑疫全书",
+"author": "佚名",
+"dynasty": "—",
+"physician": "周扬俊",
+"physician_short": "周扬俊"
+},
+"温热逢源": {
+"id": "hf_18f39cb8c2",
+"title": "温热逢源",
+"author": "佚名",
+"dynasty": "—",
+"physician": "柳宝诒",
+"physician_short": "柳宝诒"
+},
+"温疫论": {
+"id": "hf_37a9a61138",
+"title": "温疫论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "吴有性（吴又可）",
+"physician_short": "吴有性"
+},
+"瘟疫論醫家類": {
+"id": "hf_6fabbd2e51",
+"title": "瘟疫論醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"重订广温热论": {
+"id": "hf_caf2447ced",
+"title": "重订广温热论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "何廉臣",
+"physician_short": "何廉臣"
+},
+"温热经纬": {
+"id": "hf_bc396d2549",
+"title": "温热经纬",
+"author": "佚名",
+"dynasty": "—",
+"physician": "王士雄（王孟英）",
+"physician_short": "王士雄"
+},
+"温病指南": {
+"id": "hf_0976fe1fc9",
+"title": "温病指南",
+"author": "佚名",
+"dynasty": "—",
+"physician": "高秉钧",
+"physician_short": "高秉钧"
+},
+"订正仲景全书金匮要略注": {
+"id": "hf_213d88624e",
+"title": "订正仲景全书金匮要略注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"金匮方歌括": {
+"id": "hf_35268d3051",
+"title": "金匮方歌括",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"金匮玉函经二注": {
+"id": "hf_51c6e14372",
+"title": "金匮玉函经二注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "周扬俊",
+"physician_short": "周扬俊"
+},
+"金匮玉函要略辑义": {
+"id": "hf_6cd4e95ec3",
+"title": "金匮玉函要略辑义",
+"author": "佚名",
+"dynasty": "—",
+"physician": "丹波元简",
+"physician_short": "丹波元简"
+},
+"金匮玉函要略述义": {
+"id": "hf_fb5d9cecc7",
+"title": "金匮玉函要略述义",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"金匮翼": {
+"id": "hf_5871dcc3f1",
+"title": "金匮翼",
+"author": "佚名",
+"dynasty": "—",
+"physician": "尤怡",
+"physician_short": "尤怡"
+},
+"金匮要略心典": {
+"id": "hf_67f87d9dd5",
+"title": "金匮要略心典",
+"author": "佚名",
+"dynasty": "—",
+"physician": "尤怡",
+"physician_short": "尤怡"
+},
+"金匮要略方论": {
+"id": "hf_aa7e9a40e4",
+"title": "金匮要略方论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"金匮要略浅注": {
+"id": "hf_21c5f82494",
+"title": "金匮要略浅注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "陈念祖（陈修园）",
+"physician_short": "陈念祖"
+},
+"金匮钩玄": {
+"id": "hf_64e6597b5b",
+"title": "金匮钩玄",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"金匱要畧論註醫家類": {
+"id": "hf_9fcb1a6f7b",
+"title": "金匱要畧論註醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"金匱鈎": {
+"id": "hf_36b48a291c",
+"title": "金匱鈎",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"高注金匮要略": {
+"id": "hf_7f7f354740",
+"title": "高注金匮要略",
+"author": "佚名",
+"dynasty": "—",
+"physician": "高学山",
+"physician_short": "高学山"
+},
+"八十一难经": {
+"id": "hf_529367af74",
+"title": "八十一难经",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"古本难经阐注": {
+"id": "hf_5a9ea8a11f",
+"title": "古本难经阐注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "丁锦",
+"physician_short": "丁锦"
+},
+"难经本义": {
+"id": "hf_e68921d3de",
+"title": "难经本义",
+"author": "佚名",
+"dynasty": "—",
+"physician": "滑寿",
+"physician_short": "滑寿"
+},
+"难经正义": {
+"id": "hf_cab190f9b5",
+"title": "难经正义",
+"author": "佚名",
+"dynasty": "—",
+"physician": "叶霖",
+"physician_short": "叶霖"
+},
+"难经经释": {
+"id": "hf_24e3e35472",
+"title": "难经经释",
+"author": "佚名",
+"dynasty": "—",
+"physician": "徐大椿（徐灵胎）",
+"physician_short": "徐大椿"
+},
+"难经集注": {
+"id": "hf_12258f65d9",
+"title": "难经集注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "王九思",
+"physician_short": "王九思"
+},
+"内经博议": {
+"id": "hf_41a6c30222",
+"title": "内经博议",
+"author": "佚名",
+"dynasty": "—",
+"physician": "罗美",
+"physician_short": "罗美"
+},
+"内经知要": {
+"id": "hf_f3f2a4cd1e",
+"title": "内经知要",
+"author": "佚名",
+"dynasty": "—",
+"physician": "李中梓",
+"physician_short": "李中梓"
+},
+"内经药瀹": {
+"id": "hf_de776e96dc",
+"title": "内经药瀹",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张骥",
+"physician_short": "张骥"
+},
+"内经评文": {
+"id": "hf_7d7d250497",
+"title": "内经评文",
+"author": "佚名",
+"dynasty": "—",
+"physician": "周学海",
+"physician_short": "周学海"
+},
+"黄帝内经": {
+"id": "hf_cfcb26e2ff",
+"title": "黄帝内经",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"黄帝内经十二经脉秘与应用": {
+"id": "hf_96b7ba651d",
+"title": "黄帝内经十二经脉秘与应用",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"黄帝内经太素": {
+"id": "hf_2083f2cdb6",
+"title": "黄帝内经太素",
+"author": "佚名",
+"dynasty": "—",
+"physician": "杨上善",
+"physician_short": "杨上善"
+},
+"灵枢经脉翼": {
+"id": "hf_982b102f5c",
+"title": "灵枢经脉翼",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"黄帝内经灵枢集注": {
+"id": "hf_83f8028f3d",
+"title": "黄帝内经灵枢集注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张志聪",
+"physician_short": "张志聪"
+},
+"素問元機原病式醫家類": {
+"id": "hf_cc5b27c572",
+"title": "素問元機原病式醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"素問入式運氣論奥醫家類": {
+"id": "hf_93cab72b8e",
+"title": "素問入式運氣論奥醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"素问六气玄珠密语": {
+"id": "hf_4a71699763",
+"title": "素问六气玄珠密语",
+"author": "佚名",
+"dynasty": "—",
+"physician": "王冰",
+"physician_short": "王冰"
+},
+"素问灵枢类纂约注": {
+"id": "hf_5a48623f6f",
+"title": "素问灵枢类纂约注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "汪琥",
+"physician_short": "汪琥"
+},
+"素问玄机原病式": {
+"id": "hf_05ab239192",
+"title": "素问玄机原病式",
+"author": "佚名",
+"dynasty": "—",
+"physician": "刘完素",
+"physician_short": "刘完素"
+},
+"素问病机气宜保命集": {
+"id": "hf_53f58b7ade",
+"title": "素问病机气宜保命集",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"素问经注节解": {
+"id": "hf_b494eae247",
+"title": "素问经注节解",
+"author": "佚名",
+"dynasty": "—",
+"physician": "姚止庵",
+"physician_short": "姚止庵"
+},
+"素问要旨论": {
+"id": "hf_82ea9544aa",
+"title": "素问要旨论",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"读素问钞": {
+"id": "hf_7afa6a2ec7",
+"title": "读素问钞",
+"author": "佚名",
+"dynasty": "—",
+"physician": "滑寿",
+"physician_short": "滑寿"
+},
+"重广补注黄帝内经素问": {
+"id": "hf_f335ccbb97",
+"title": "重广补注黄帝内经素问",
+"author": "佚名",
+"dynasty": "—",
+"physician": "王冰",
+"physician_short": "王冰"
+},
+"黄帝内经素问": {
+"id": "hf_8301e729c4",
+"title": "黄帝内经素问",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"黄帝内经素问校义": {
+"id": "hf_6ee61ecfa7",
+"title": "黄帝内经素问校义",
+"author": "佚名",
+"dynasty": "—",
+"physician": "胡澍",
+"physician_short": "胡澍"
+},
+"黄帝内经素问遗篇": {
+"id": "hf_7c8061e47d",
+"title": "黄帝内经素问遗篇",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"黄帝内经素问集注": {
+"id": "hf_845b512cae",
+"title": "黄帝内经素问集注",
+"author": "佚名",
+"dynasty": "—",
+"physician": "张志聪",
+"physician_short": "张志聪"
+},
+"黄帝素问宣明论方": {
+"id": "hf_e1e8473898",
+"title": "黄帝素问宣明论方",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+},
+"黄帝素问直解": {
+"id": "hf_9deb8664bf",
+"title": "黄帝素问直解",
+"author": "佚名",
+"dynasty": "—",
+"physician": "高士宗",
+"physician_short": "高士宗"
+},
+"明堂灸經醫家類": {
+"id": "hf_d24c7c989a",
+"title": "明堂灸經醫家類",
+"author": "佚名",
+"dynasty": "—",
+"physician": "",
+"physician_short": ""
+}
+}

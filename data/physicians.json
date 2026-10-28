@@ -1,0 +1,2221 @@
+[
+ {
+  "name": "扁鹊（秦越人）",
+  "dynasty": "战国",
+  "title": "脉学之祖",
+  "works": [
+   "难经"
+  ],
+  "thought": "创望闻问切四诊，独取寸口诊脉法；提出「六不治」，重视早期诊断与预防。",
+  "contribution": "奠定脉诊基础，《难经》以问答形式阐发《内经》经旨，为医经派经典。",
+  "classic": "寸口者，脉之大会，手太阴之脉动也。",
+  "school": "医经学派",
+  "books": [
+   {
+    "id": "nanjing",
+    "title": "难经（节选）"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "难经",
+    "bookId": "nanjing",
+    "title": "难经（节选）"
+   }
+  ]
+ },
+ {
+  "name": "张仲景（张机）",
+  "dynasty": "东汉",
+  "title": "医圣",
+  "works": [
+   "伤寒杂病论",
+   "伤寒论",
+   "金匮要略"
+  ],
+  "thought": "创立六经辨证体系，确立「观其脉证，知犯何逆，随证治之」的辨证论治原则；杂病以脏腑经络辨证。",
+  "contribution": "辨证论治之祖，载方三百余首，被誉为「方书之祖」，经方至今为临床圭臬。",
+  "classic": "观其脉证，知犯何逆，随证治之。",
+  "school": "伤寒学派",
+  "books": [
+   {
+    "id": "shanghanlun",
+    "title": "伤寒论"
+   },
+   {
+    "id": "jinkui",
+    "title": "金匮要略"
+   },
+   {
+    "id": "hf_fe976d1c06",
+    "title": "伤寒论"
+   },
+   {
+    "id": "hf_12fdf2b975",
+    "title": "伤寒杂病论桂林古本"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒杂病论",
+    "bookId": "hf_12fdf2b975",
+    "title": "伤寒杂病论桂林古本"
+   },
+   {
+    "name": "伤寒论",
+    "bookId": "shanghanlun",
+    "title": "伤寒论"
+   },
+   {
+    "name": "金匮要略",
+    "bookId": "jinkui",
+    "title": "金匮要略"
+   }
+  ]
+ },
+ {
+  "name": "华佗",
+  "dynasty": "东汉",
+  "title": "外科鼻祖",
+  "works": [
+   "中藏经"
+  ],
+  "thought": "创麻沸散行外科手术；创五禽戏导引养生；重视脏腑辨证。",
+  "contribution": "开创中医外科麻醉先河，五禽戏流传至今。",
+  "school": "临床综合",
+  "books": [],
+  "works_status": [
+   {
+    "name": "中藏经",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "皇甫谧",
+  "dynasty": "魏晋",
+  "title": "针灸鼻祖",
+  "works": [
+   "针灸甲乙经",
+   "帝王世纪"
+  ],
+  "thought": "系统整理《素问》《灵枢》《明堂孔穴针灸治要》，厘定腧穴三百四十九穴，确立针灸学术体系。",
+  "contribution": "现存最早针灸学专著，为后世针灸学奠基。",
+  "school": "针灸学",
+  "books": [],
+  "works_status": [
+   {
+    "name": "针灸甲乙经",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "帝王世纪",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "王叔和",
+  "dynasty": "西晋",
+  "title": "脉学大家",
+  "works": [
+   "脉经"
+  ],
+  "thought": "首次系统整理二十四脉象；编次仲景遗论，为《伤寒论》流传第一功臣。",
+  "contribution": "现存最早脉学专著，确立寸关尺三部诊法。",
+  "school": "诊断学",
+  "books": [],
+  "works_status": [
+   {
+    "name": "脉经",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "陶弘景",
+  "dynasty": "南朝梁",
+  "title": "本草学奠基者",
+  "school": "本草学",
+  "works": [
+   "本草经集注",
+   "养性延命录"
+  ],
+  "thought": "增补《神农本草经》为七百三十种，首创「诸病通用药」与自然分类（玉石、草木、虫兽、果菜、米食）。",
+  "contribution": "本草学分类与临床用药体系的开创者。",
+  "books": [],
+  "works_status": [
+   {
+    "name": "本草经集注",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "养性延命录",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "王冰",
+  "dynasty": "唐",
+  "title": "《素问》次注大家",
+  "school": "医经注家",
+  "works": [
+   "重广补注黄帝内经素问",
+   "灵枢经",
+   "素问六气玄珠密语"
+  ],
+  "thought": "重订《素问》篇次，补亡订误，阐发运气学说，注文成为后世《素问》通行本的基础。",
+  "contribution": "今本《素问》面貌的奠定者。",
+  "books": [
+   {
+    "id": "hf_f335ccbb97",
+    "title": "重广补注黄帝内经素问"
+   },
+   {
+    "id": "lingshu",
+    "title": "灵枢经"
+   },
+   {
+    "id": "hf_c79dcce6f5",
+    "title": "灵枢经"
+   },
+   {
+    "id": "hf_4a71699763",
+    "title": "素问六气玄珠密语"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "重广补注黄帝内经素问",
+    "bookId": "hf_f335ccbb97",
+    "title": "重广补注黄帝内经素问"
+   },
+   {
+    "name": "灵枢经",
+    "bookId": "lingshu",
+    "title": "灵枢经"
+   },
+   {
+    "name": "素问六气玄珠密语",
+    "bookId": "hf_4a71699763",
+    "title": "素问六气玄珠密语"
+   }
+  ]
+ },
+ {
+  "name": "杨上善",
+  "dynasty": "唐",
+  "title": "《内经》分类编纂第一人",
+  "school": "医经注家",
+  "works": [
+   "黄帝内经太素"
+  ],
+  "thought": "将《素问》《灵枢》按摄生、阴阳、脏腑、经脉等十九类重新编次，逐条注释。",
+  "contribution": "首创《内经》分类研究体例，保存大量古本异文。",
+  "books": [
+   {
+    "id": "hf_2083f2cdb6",
+    "title": "黄帝内经太素"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "黄帝内经太素",
+    "bookId": "hf_2083f2cdb6",
+    "title": "黄帝内经太素"
+   }
+  ]
+ },
+ {
+  "name": "孙思邈",
+  "dynasty": "唐",
+  "title": "药王",
+  "works": [
+   "备急千金要方",
+   "千金翼方"
+  ],
+  "thought": "「人命至重，有贵千金」；重医德，著《大医精诚》；脏腑虚实寒热辨证，方药兼收并蓄。",
+  "contribution": "集唐以前医学之大成，医德医风之楷模。",
+  "school": "临床综合",
+  "books": [],
+  "works_status": [
+   {
+    "name": "备急千金要方",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "千金翼方",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "许叔微",
+  "dynasty": "宋",
+  "title": "伤寒歌诀与医案大家",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒百证歌",
+   "伤寒九十论",
+   "普济本事方"
+  ],
+  "thought": "以七言歌诀括伤寒百证，又以九十个亲历医案验证经方，强调辨证与实效。",
+  "contribution": "以歌诀与医案双轨阐发伤寒，开医案验证经方之先。",
+  "books": [
+   {
+    "id": "hf_00b86007e3",
+    "title": "伤寒百证歌"
+   },
+   {
+    "id": "hf_c21c540c07",
+    "title": "伤寒九十论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒百证歌",
+    "bookId": "hf_00b86007e3",
+    "title": "伤寒百证歌"
+   },
+   {
+    "name": "伤寒九十论",
+    "bookId": "hf_c21c540c07",
+    "title": "伤寒九十论"
+   },
+   {
+    "name": "普济本事方",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "庞安时",
+  "dynasty": "宋",
+  "title": "宋代伤寒大家",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒总病论"
+  ],
+  "thought": "论伤寒与天行温疫、时气、寒疫之异同，兼重解毒与护胎之法。",
+  "contribution": "伤寒与温疫辨治的早期综合之作。",
+  "books": [
+   {
+    "id": "hf_30a51bc293",
+    "title": "伤寒总病论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒总病论",
+    "bookId": "hf_30a51bc293",
+    "title": "伤寒总病论"
+   }
+  ]
+ },
+ {
+  "name": "郭雍",
+  "dynasty": "宋",
+  "title": "伤寒补亡者",
+  "school": "伤寒学派",
+  "works": [
+   "仲景伤寒补亡论"
+  ],
+  "thought": "采辑《千金》《外台》诸书补仲景佚文，条列伤寒治法与方剂。",
+  "contribution": "辑佚补亡，保存仲景佚文。",
+  "books": [
+   {
+    "id": "hf_eba6fac41a",
+    "title": "仲景伤寒补亡论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "仲景伤寒补亡论",
+    "bookId": "hf_eba6fac41a",
+    "title": "仲景伤寒补亡论"
+   }
+  ]
+ },
+ {
+  "name": "钱乙",
+  "dynasty": "北宋",
+  "title": "儿科之圣",
+  "works": [
+   "小儿药证直诀"
+  ],
+  "thought": "小儿「脏腑柔弱，易虚易实，易寒易热」；五脏辨证纲领；创六味地黄丸（由肾气丸化裁）。",
+  "contribution": "中医儿科学奠基人，六味地黄丸为滋补肾阴第一方。",
+  "school": "儿科",
+  "books": [],
+  "works_status": [
+   {
+    "name": "小儿药证直诀",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "成无己",
+  "dynasty": "宋金",
+  "title": "《伤寒论》全文注解第一人",
+  "school": "伤寒学派",
+  "works": [
+   "注解伤寒论",
+   "伤寒明理论"
+  ],
+  "thought": "以《内经》《难经》经旨逐条注解《伤寒论》，辨析五十证，阐发方剂配伍之义。",
+  "contribution": "开伤寒学派注释之先河，成注本为后世研习《伤寒论》的津梁。",
+  "books": [
+   {
+    "id": "hf_bf54d7c78a",
+    "title": "注解伤寒论"
+   },
+   {
+    "id": "hf_817617ec67",
+    "title": "伤寒明理论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "注解伤寒论",
+    "bookId": "hf_bf54d7c78a",
+    "title": "注解伤寒论"
+   },
+   {
+    "name": "伤寒明理论",
+    "bookId": "hf_817617ec67",
+    "title": "伤寒明理论"
+   }
+  ]
+ },
+ {
+  "name": "刘完素",
+  "dynasty": "金",
+  "title": "河间学派创始人（寒凉派）",
+  "works": [
+   "素问玄机原病式",
+   "宣明论方"
+  ],
+  "thought": "倡「六气皆从火化」「五志过极皆为热甚」，主寒凉攻邪。",
+  "contribution": "金元四大家之首，开温病学派先声。",
+  "school": "寒凉派",
+  "books": [
+   {
+    "id": "hf_05ab239192",
+    "title": "素问玄机原病式"
+   },
+   {
+    "id": "hf_e1e8473898",
+    "title": "黄帝素问宣明论方"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "素问玄机原病式",
+    "bookId": "hf_05ab239192",
+    "title": "素问玄机原病式"
+   },
+   {
+    "name": "宣明论方",
+    "bookId": "hf_e1e8473898",
+    "title": "黄帝素问宣明论方"
+   }
+  ]
+ },
+ {
+  "name": "张从正",
+  "dynasty": "金",
+  "title": "攻邪派代表",
+  "works": [
+   "儒门事亲"
+  ],
+  "thought": "「邪去则正安」，擅用汗吐下三法攻邪治病。",
+  "contribution": "金元四大家之一，攻邪学说代表。",
+  "school": "攻邪派",
+  "books": [],
+  "works_status": [
+   {
+    "name": "儒门事亲",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "张元素",
+  "dynasty": "金",
+  "title": "易水学派创始人",
+  "works": [
+   "医学启源",
+   "脏腑标本寒热虚实用药式",
+   "珍珠囊"
+  ],
+  "thought": "脏腑辨证用药体系；药物升降浮沉、引经报使学说；「古方今病不相能」。",
+  "contribution": "易水学派开山，药物归经理论奠基人。",
+  "school": "易水学派",
+  "books": [],
+  "works_status": [
+   {
+    "name": "医学启源",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "脏腑标本寒热虚实用药式",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "珍珠囊",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "李杲（李东垣）",
+  "dynasty": "金元",
+  "title": "补土派创始人",
+  "works": [
+   "脾胃论",
+   "内外伤辨惑论",
+   "兰室秘藏"
+  ],
+  "thought": "「内伤脾胃，百病由生」；「火与元气不两立」；创补中益气汤，甘温除大热。",
+  "contribution": "金元四大家之一，补土学派开山，补中益气汤为千古名方。",
+  "school": "补土派",
+  "books": [
+   {
+    "id": "piweilun",
+    "title": "脾胃论"
+   },
+   {
+    "id": "neiwaishang",
+    "title": "内外伤辨惑论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "脾胃论",
+    "bookId": "piweilun",
+    "title": "脾胃论"
+   },
+   {
+    "name": "内外伤辨惑论",
+    "bookId": "neiwaishang",
+    "title": "内外伤辨惑论"
+   },
+   {
+    "name": "兰室秘藏",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "滑寿",
+  "dynasty": "元",
+  "title": "医经考订大家",
+  "school": "医经注家",
+  "works": [
+   "难经本义",
+   "读素问钞",
+   "十四经发挥"
+  ],
+  "thought": "考订《难经》编次与文义，钞撮《素问》精要，发挥十四经经脉循行。",
+  "contribution": "元末医经注疏与经脉学的重要代表。",
+  "books": [
+   {
+    "id": "hf_e68921d3de",
+    "title": "难经本义"
+   },
+   {
+    "id": "hf_7afa6a2ec7",
+    "title": "读素问钞"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "难经本义",
+    "bookId": "hf_e68921d3de",
+    "title": "难经本义"
+   },
+   {
+    "name": "读素问钞",
+    "bookId": "hf_7afa6a2ec7",
+    "title": "读素问钞"
+   },
+   {
+    "name": "十四经发挥",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "杜本",
+  "dynasty": "元",
+  "title": "舌诊专书作者",
+  "school": "诊断学",
+  "works": [
+   "敖氏伤寒金镜录"
+  ],
+  "thought": "以三十六幅舌图配以方治，系统论述伤寒舌诊。",
+  "contribution": "现存最早的舌诊专著之一。",
+  "books": [
+   {
+    "id": "hf_ee5237e50e",
+    "title": "敖氏伤寒金镜录"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "敖氏伤寒金镜录",
+    "bookId": "hf_ee5237e50e",
+    "title": "敖氏伤寒金镜录"
+   }
+  ]
+ },
+ {
+  "name": "朱震亨（朱丹溪）",
+  "dynasty": "元",
+  "title": "滋阴派创始人",
+  "works": [
+   "格致余论",
+   "丹溪心法",
+   "局方发挥"
+  ],
+  "thought": "「阳常有余，阴常不足」；主滋阴降火；善治气、血、痰、郁诸证，创越鞠丸。",
+  "contribution": "金元四大家之一，滋阴学派开山，养阴学说影响深远。",
+  "school": "滋阴派",
+  "books": [],
+  "works_status": [
+   {
+    "name": "格致余论",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "丹溪心法",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "局方发挥",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "李中梓",
+  "dynasty": "明",
+  "title": "脾肾并重派",
+  "school": "温补学派",
+  "works": [
+   "医宗必读",
+   "内经知要",
+   "伤寒括要"
+  ],
+  "thought": "倡「水火阴阳论」，主张脾肾并重、气血双补，选录《内经》精要成《知要》。",
+  "contribution": "《内经知要》《医宗必读》为入门经典。",
+  "books": [
+   {
+    "id": "hf_f3f2a4cd1e",
+    "title": "内经知要"
+   },
+   {
+    "id": "hf_7cd0426dce",
+    "title": "伤寒括要"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "医宗必读",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "内经知要",
+    "bookId": "hf_f3f2a4cd1e",
+    "title": "内经知要"
+   },
+   {
+    "name": "伤寒括要",
+    "bookId": "hf_7cd0426dce",
+    "title": "伤寒括要"
+   }
+  ]
+ },
+ {
+  "name": "方有执",
+  "dynasty": "明",
+  "title": "错简重订派开创者",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒论条辨"
+  ],
+  "thought": "认为王叔和编次有误、成无己注有讹，主张削去序例、重订篇次。",
+  "contribution": "开《伤寒论》错简重订之争，影响清代伤寒学。",
+  "books": [
+   {
+    "id": "hf_af01d99a34",
+    "title": "伤寒论条辨"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒论条辨",
+    "bookId": "hf_af01d99a34",
+    "title": "伤寒论条辨"
+   }
+  ]
+ },
+ {
+  "name": "王九思",
+  "dynasty": "明",
+  "title": "《难经》集注者",
+  "school": "医经注家",
+  "works": [
+   "难经集注"
+  ],
+  "thought": "辑三国至唐诸家《难经》注文，保存吕广、杨玄操等古注。",
+  "contribution": "《难经》古注的渊薮。",
+  "books": [
+   {
+    "id": "hf_12258f65d9",
+    "title": "难经集注"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "难经集注",
+    "bookId": "hf_12258f65d9",
+    "title": "难经集注"
+   }
+  ]
+ },
+ {
+  "name": "王肯堂",
+  "dynasty": "明",
+  "title": "明代医学集大成者",
+  "school": "临床综合",
+  "works": [
+   "证治准绳",
+   "伤寒证治准绳"
+  ],
+  "thought": "以「准绳」为名汇集诸家，分科详列证治，伤寒部分条分缕析。",
+  "contribution": "《证治准绳》为明代临床百科全书。",
+  "books": [
+   {
+    "id": "hf_b4d84877f1",
+    "title": "伤寒证治准绳"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "证治准绳",
+    "bookId": "hf_b4d84877f1",
+    "title": "伤寒证治准绳"
+   },
+   {
+    "name": "伤寒证治准绳",
+    "bookId": "hf_b4d84877f1",
+    "title": "伤寒证治准绳"
+   }
+  ]
+ },
+ {
+  "name": "陶华",
+  "dynasty": "明",
+  "title": "伤寒通俗化大家",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒六书"
+  ],
+  "thought": "以「六书」体例括伤寒脉证方治，重临床实用与入门。",
+  "contribution": "明代伤寒普及读本的代表。",
+  "books": [
+   {
+    "id": "hf_1dae16ef64",
+    "title": "伤寒六书"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒六书",
+    "bookId": "hf_1dae16ef64",
+    "title": "伤寒六书"
+   }
+  ]
+ },
+ {
+  "name": "吴昆",
+  "dynasty": "明",
+  "title": "方论专著作者",
+  "school": "方剂学",
+  "works": [
+   "医方考"
+  ],
+  "thought": "选方七百余首，逐方考其名义、配伍与主治，开方论系统研究。",
+  "contribution": "中医方论学的奠基之作。",
+  "books": [],
+  "works_status": [
+   {
+    "name": "医方考",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "张介宾（张景岳）",
+  "dynasty": "明",
+  "title": "温补学派代表",
+  "works": [
+   "景岳全书",
+   "类经"
+  ],
+  "thought": "「阳非有余，真阴不足」；主温补；创左归丸、右归丸；倡「善补阳者，必于阴中求阳」。",
+  "contribution": "温补学派中坚，新方八阵体系。",
+  "school": "温补学派",
+  "books": [],
+  "works_status": [
+   {
+    "name": "景岳全书",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "类经",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "李时珍",
+  "dynasty": "明",
+  "title": "药圣",
+  "works": [
+   "本草纲目",
+   "濒湖脉学",
+   "奇经八脉考"
+  ],
+  "thought": "历时二十七年著《本草纲目》，收药一千八百九十二种，「考古证今，辨疑订误」；「脑为元神之府」。",
+  "contribution": "药物学集大成者，《本草纲目》被誉为东方药物巨典。",
+  "school": "本草学",
+  "books": [],
+  "works_status": [
+   {
+    "name": "本草纲目",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "濒湖脉学",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "奇经八脉考",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "吴有性（吴又可）",
+  "dynasty": "明末清初",
+  "title": "温疫学派先驱",
+  "works": [
+   "温疫论"
+  ],
+  "thought": "创「戾气」学说，提出温疫由口鼻而入，「非风非寒非暑非湿，乃天地间别有一种异气所感」；创达原饮。",
+  "contribution": "温病学派奠基之作，传染病学先驱。",
+  "school": "温病学派",
+  "books": [
+   {
+    "id": "hf_37a9a61138",
+    "title": "温疫论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "温疫论",
+    "bookId": "hf_37a9a61138",
+    "title": "温疫论"
+   }
+  ]
+ },
+ {
+  "name": "张卿子",
+  "dynasty": "明末清初",
+  "title": "伤寒注家",
+  "school": "伤寒学派",
+  "works": [
+   "张卿子伤寒论"
+  ],
+  "thought": "参校诸本，重订《伤寒论》条文并加注释。",
+  "contribution": "明末清初伤寒版本整理者。",
+  "books": [
+   {
+    "id": "hf_880de063bf",
+    "title": "张卿子伤寒论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "张卿子伤寒论",
+    "bookId": "hf_880de063bf",
+    "title": "张卿子伤寒论"
+   }
+  ]
+ },
+ {
+  "name": "柯琴",
+  "dynasty": "清",
+  "title": "以方类证大家",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒来苏集",
+   "伤寒论注",
+   "伤寒附翼",
+   "伤寒论翼"
+  ],
+  "thought": "倡「六经地面说」，以方类证、以证释方，认为《伤寒论》为百病立法。",
+  "contribution": "《伤寒来苏集》为清代伤寒注本名著。",
+  "books": [
+   {
+    "id": "hf_a4d584adf3",
+    "title": "伤寒来苏集"
+   },
+   {
+    "id": "hf_bf773d280c",
+    "title": "伤寒论注"
+   },
+   {
+    "id": "hf_1d656febcf",
+    "title": "伤寒附翼"
+   },
+   {
+    "id": "hf_d46ae23033",
+    "title": "伤寒论翼"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒来苏集",
+    "bookId": "hf_a4d584adf3",
+    "title": "伤寒来苏集"
+   },
+   {
+    "name": "伤寒论注",
+    "bookId": "hf_bf773d280c",
+    "title": "伤寒论注"
+   },
+   {
+    "name": "伤寒附翼",
+    "bookId": "hf_1d656febcf",
+    "title": "伤寒附翼"
+   },
+   {
+    "name": "伤寒论翼",
+    "bookId": "hf_d46ae23033",
+    "title": "伤寒论翼"
+   }
+  ]
+ },
+ {
+  "name": "尤怡",
+  "dynasty": "清",
+  "title": "以法类证大家",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒贯珠集",
+   "金匮要略心典",
+   "金匮翼"
+  ],
+  "thought": "以「正治、权变、斡旋、救逆、类病、明辨、杂治」诸法统贯伤寒；注《金匮》最称精审。",
+  "contribution": "《金匮要略心典》为历代《金匮》注本之上乘。",
+  "books": [
+   {
+    "id": "hf_d0d9c553fc",
+    "title": "伤寒贯珠集"
+   },
+   {
+    "id": "hf_67f87d9dd5",
+    "title": "金匮要略心典"
+   },
+   {
+    "id": "hf_5871dcc3f1",
+    "title": "金匮翼"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒贯珠集",
+    "bookId": "hf_d0d9c553fc",
+    "title": "伤寒贯珠集"
+   },
+   {
+    "name": "金匮要略心典",
+    "bookId": "hf_67f87d9dd5",
+    "title": "金匮要略心典"
+   },
+   {
+    "name": "金匮翼",
+    "bookId": "hf_5871dcc3f1",
+    "title": "金匮翼"
+   }
+  ]
+ },
+ {
+  "name": "张志聪",
+  "dynasty": "清",
+  "title": "集注派代表",
+  "school": "医经注家",
+  "works": [
+   "黄帝内经素问集注",
+   "黄帝内经灵枢集注",
+   "伤寒论集注"
+  ],
+  "thought": "集同学诸家之说注《内经》《伤寒》，主张维护旧论、以经解经。",
+  "contribution": "清代集注体医经研究的代表。",
+  "books": [
+   {
+    "id": "hf_845b512cae",
+    "title": "黄帝内经素问集注"
+   },
+   {
+    "id": "hf_83f8028f3d",
+    "title": "黄帝内经灵枢集注"
+   },
+   {
+    "id": "hf_de638d8bd5",
+    "title": "伤寒论集注"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "黄帝内经素问集注",
+    "bookId": "hf_845b512cae",
+    "title": "黄帝内经素问集注"
+   },
+   {
+    "name": "黄帝内经灵枢集注",
+    "bookId": "hf_83f8028f3d",
+    "title": "黄帝内经灵枢集注"
+   },
+   {
+    "name": "伤寒论集注",
+    "bookId": "hf_de638d8bd5",
+    "title": "伤寒论集注"
+   }
+  ]
+ },
+ {
+  "name": "叶桂（叶天士）",
+  "dynasty": "清",
+  "title": "温病学派巨擘",
+  "works": [
+   "温热论",
+   "临证指南医案"
+  ],
+  "thought": "创卫气营血辨证；「温邪上受，首先犯肺，逆传心包」；立「在卫汗之，到气清气，入营透热转气，入血凉血散血」治疗大法。",
+  "contribution": "温病学理论体系奠基人，卫气营血辨证为温病辨证纲领。",
+  "school": "温病学派",
+  "books": [
+   {
+    "id": "wenrelun",
+    "title": "温热论"
+   },
+   {
+    "id": "hf_097e52f832",
+    "title": "温热论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "温热论",
+    "bookId": "wenrelun",
+    "title": "温热论"
+   },
+   {
+    "name": "临证指南医案",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "吴瑭（吴鞠通）",
+  "dynasty": "清",
+  "title": "温病学派集大成者",
+  "works": [
+   "温病条辨"
+  ],
+  "thought": "创三焦辨证体系，「始上焦，终下焦」；「治上焦如羽，非轻不举；治中焦如衡，非平不安；治下焦如权，非重不沉」；创银翘散、桑菊饮、安宫牛黄丸等名方。",
+  "contribution": "温病学集大成之作，三焦辨证与卫气营血辨证相辅相成。",
+  "school": "温病学派",
+  "books": [
+   {
+    "id": "wenbing",
+    "title": "温病条辨"
+   },
+   {
+    "id": "hf_f9bd5a95fd",
+    "title": "温病条辨"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "温病条辨",
+    "bookId": "wenbing",
+    "title": "温病条辨"
+   }
+  ]
+ },
+ {
+  "name": "周学海",
+  "dynasty": "清",
+  "title": "医经评注家",
+  "school": "医经注家",
+  "works": [
+   "伤寒补例",
+   "内经评文",
+   "读医随笔"
+  ],
+  "thought": "以评点体例研读《内经》《伤寒》，重脉法与气血。",
+  "contribution": "晚清医经评点与脉学大家。",
+  "books": [
+   {
+    "id": "hf_b8cefa1580",
+    "title": "伤寒补例"
+   },
+   {
+    "id": "hf_7d7d250497",
+    "title": "内经评文"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒补例",
+    "bookId": "hf_b8cefa1580",
+    "title": "伤寒补例"
+   },
+   {
+    "name": "内经评文",
+    "bookId": "hf_7d7d250497",
+    "title": "内经评文"
+   },
+   {
+    "name": "读医随笔",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "周扬俊",
+  "dynasty": "清",
+  "title": "温暑疫合论者",
+  "school": "温病学派",
+  "works": [
+   "温热暑疫全书",
+   "金匮玉函经二注"
+  ],
+  "thought": "合论温、热、暑、疫四类外感，兼注《金匮》。",
+  "contribution": "温暑疫合论的代表。",
+  "books": [
+   {
+    "id": "hf_81f22b3857",
+    "title": "温热暑疫全书"
+   },
+   {
+    "id": "hf_51c6e14372",
+    "title": "金匮玉函经二注"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "温热暑疫全书",
+    "bookId": "hf_81f22b3857",
+    "title": "温热暑疫全书"
+   },
+   {
+    "name": "金匮玉函经二注",
+    "bookId": "hf_51c6e14372",
+    "title": "金匮玉函经二注"
+   }
+  ]
+ },
+ {
+  "name": "徐大椿（徐灵胎）",
+  "dynasty": "清",
+  "title": "医学评论大家",
+  "school": "临床综合",
+  "works": [
+   "伤寒论类方",
+   "难经经释",
+   "医学源流论"
+  ],
+  "thought": "以方类方、以法统方；「用药如用兵」；力倡辨病与辨证结合，反对滥用温补。",
+  "contribution": "《医学源流论》为中医学术评论名作。",
+  "books": [
+   {
+    "id": "hf_44ed6b111b",
+    "title": "伤寒论类方"
+   },
+   {
+    "id": "hf_24e3e35472",
+    "title": "难经经释"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒论类方",
+    "bookId": "hf_44ed6b111b",
+    "title": "伤寒论类方"
+   },
+   {
+    "name": "难经经释",
+    "bookId": "hf_24e3e35472",
+    "title": "难经经释"
+   },
+   {
+    "name": "医学源流论",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "陈念祖（陈修园）",
+  "dynasty": "清",
+  "title": "医学普及大家",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒医诀串解",
+   "金匮要略浅注",
+   "时方歌括",
+   "医学三字经"
+  ],
+  "thought": "以浅注、歌诀、三字经等形式普及经方与医理，力主回归仲景。",
+  "contribution": "清代医学普及的第一功臣。",
+  "books": [
+   {
+    "id": "hf_c934e7ac7e",
+    "title": "伤寒医诀串解"
+   },
+   {
+    "id": "hf_21c5f82494",
+    "title": "金匮要略浅注"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒医诀串解",
+    "bookId": "hf_c934e7ac7e",
+    "title": "伤寒医诀串解"
+   },
+   {
+    "name": "金匮要略浅注",
+    "bookId": "hf_21c5f82494",
+    "title": "金匮要略浅注"
+   },
+   {
+    "name": "时方歌括",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "医学三字经",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "丁锦",
+  "dynasty": "清",
+  "title": "《难经》阐注者",
+  "school": "医经注家",
+  "works": [
+   "古本难经阐注"
+  ],
+  "thought": "据古本阐发《难经》奥义，注重临证应用。",
+  "contribution": "《难经》阐注本。",
+  "books": [
+   {
+    "id": "hf_5a9ea8a11f",
+    "title": "古本难经阐注"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "古本难经阐注",
+    "bookId": "hf_5a9ea8a11f",
+    "title": "古本难经阐注"
+   }
+  ]
+ },
+ {
+  "name": "何廉臣",
+  "dynasty": "清",
+  "title": "绍派伤寒大家",
+  "school": "温病学派",
+  "works": [
+   "重订广温热论",
+   "全国名医验案类编"
+  ],
+  "thought": "重订戴天章《广温热论》，增补温病辨治，兼辑名医验案。",
+  "contribution": "绍派伤寒与温病文献整理大家。",
+  "books": [
+   {
+    "id": "hf_caf2447ced",
+    "title": "重订广温热论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "重订广温热论",
+    "bookId": "hf_caf2447ced",
+    "title": "重订广温热论"
+   },
+   {
+    "name": "全国名医验案类编",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "俞根初",
+  "dynasty": "清",
+  "title": "绍派伤寒代表",
+  "school": "伤寒学派",
+  "works": [
+   "重订通俗伤寒论"
+  ],
+  "thought": "以「通俗」为旨，按六经分证论治外感，方药切于实用。",
+  "contribution": "绍派伤寒的代表著作。",
+  "books": [
+   {
+    "id": "hf_250ece008c",
+    "title": "重订通俗伤寒论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "重订通俗伤寒论",
+    "bookId": "hf_250ece008c",
+    "title": "重订通俗伤寒论"
+   }
+  ]
+ },
+ {
+  "name": "叶霖",
+  "dynasty": "清",
+  "title": "《难经》注家",
+  "school": "医经注家",
+  "works": [
+   "难经正义"
+  ],
+  "thought": "博采诸家，正义《难经》脉学与经络。",
+  "contribution": "清代《难经》注本。",
+  "books": [
+   {
+    "id": "hf_cab190f9b5",
+    "title": "难经正义"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "难经正义",
+    "bookId": "hf_cab190f9b5",
+    "title": "难经正义"
+   }
+  ]
+ },
+ {
+  "name": "吕震名",
+  "dynasty": "清",
+  "title": "伤寒源流考辨者",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒寻源"
+  ],
+  "thought": "考辨伤寒源流与六经传变，力主临床验证。",
+  "contribution": "清代伤寒源流考辨之作。",
+  "books": [
+   {
+    "id": "hf_0fa6f60259",
+    "title": "伤寒寻源"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒寻源",
+    "bookId": "hf_0fa6f60259",
+    "title": "伤寒寻源"
+   }
+  ]
+ },
+ {
+  "name": "吴坤安",
+  "dynasty": "清",
+  "title": "《伤寒指掌》作者",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒指掌"
+  ],
+  "thought": "以指掌诀括伤寒脉证，分类详明，便于临证检阅。",
+  "contribution": "清代伤寒临床手册。",
+  "books": [
+   {
+    "id": "hf_38193a37a5",
+    "title": "伤寒指掌"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒指掌",
+    "bookId": "hf_38193a37a5",
+    "title": "伤寒指掌"
+   }
+  ]
+ },
+ {
+  "name": "唐宗海（唐容川）",
+  "dynasty": "清",
+  "title": "血证大家",
+  "works": [
+   "血证论",
+   "中西汇通医经精义"
+  ],
+  "thought": "立治血四法：止血、消瘀、宁血、补虚；倡中西医汇通。",
+  "contribution": "血证论治集大成者，中西汇通学派代表。",
+  "school": "血证与汇通",
+  "books": [
+   {
+    "id": "xuezhenglun",
+    "title": "血证论（节选）"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "血证论",
+    "bookId": "xuezhenglun",
+    "title": "血证论（节选）"
+   },
+   {
+    "name": "中西汇通医经精义",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "姚止庵",
+  "dynasty": "清",
+  "title": "《素问》节解家",
+  "school": "医经注家",
+  "works": [
+   "素问经注节解"
+  ],
+  "thought": "节录王冰注而增删发挥，于病机治法多有己见。",
+  "contribution": "清代《素问》注疏的重要一家。",
+  "books": [
+   {
+    "id": "hf_b494eae247",
+    "title": "素问经注节解"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "素问经注节解",
+    "bookId": "hf_b494eae247",
+    "title": "素问经注节解"
+   }
+  ]
+ },
+ {
+  "name": "张倬",
+  "dynasty": "清",
+  "title": "伤寒兼证研究者",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒兼证析义"
+  ],
+  "thought": "专论伤寒兼夹痰、食、血、虚诸证之辨治。",
+  "contribution": "伤寒兼证辨治的专著。",
+  "books": [
+   {
+    "id": "hf_9ae3f6c72a",
+    "title": "伤寒兼证析义"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒兼证析义",
+    "bookId": "hf_9ae3f6c72a",
+    "title": "伤寒兼证析义"
+   }
+  ]
+ },
+ {
+  "name": "张璐",
+  "dynasty": "清",
+  "title": "清初三大医家之一",
+  "school": "临床综合",
+  "works": [
+   "伤寒缵论",
+   "张氏医通",
+   "本经逢原"
+  ],
+  "thought": "会通伤寒与杂病，重视温补与脾胃，药物学上重「本经」与临床验证。",
+  "contribution": "《张氏医通》为清初临床巨著。",
+  "books": [
+   {
+    "id": "hf_a621ae3dc2",
+    "title": "伤寒缵论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒缵论",
+    "bookId": "hf_a621ae3dc2",
+    "title": "伤寒缵论"
+   },
+   {
+    "name": "张氏医通",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "本经逢原",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "张骥",
+  "dynasty": "清",
+  "title": "《内经》药物考据者",
+  "school": "考据学派",
+  "works": [
+   "内经药瀹"
+  ],
+  "thought": "专考《内经》所载药物与用药法度。",
+  "contribution": "《内经》药物学研究。",
+  "books": [
+   {
+    "id": "hf_de776e96dc",
+    "title": "内经药瀹"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "内经药瀹",
+    "bookId": "hf_de776e96dc",
+    "title": "内经药瀹"
+   }
+  ]
+ },
+ {
+  "name": "戴天章",
+  "dynasty": "清",
+  "title": "温疫学派传人",
+  "school": "温病学派",
+  "works": [
+   "广温疫论"
+  ],
+  "thought": "推广吴又可戾气学说，从气、色、舌、神、脉五辨温疫与伤寒之异。",
+  "contribution": "温疫辨证「五辨」法的提出者。",
+  "books": [
+   {
+    "id": "hf_320440ddc9",
+    "title": "广温疫论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "广温疫论",
+    "bookId": "hf_320440ddc9",
+    "title": "广温疫论"
+   }
+  ]
+ },
+ {
+  "name": "柳宝诒",
+  "dynasty": "清",
+  "title": "伏气温病大家",
+  "school": "温病学派",
+  "works": [
+   "温热逢源"
+  ],
+  "thought": "专论伏气温病，主张「伏邪从少阴而出」，重视养阴透邪。",
+  "contribution": "伏气温病学说的代表著作。",
+  "books": [
+   {
+    "id": "hf_18f39cb8c2",
+    "title": "温热逢源"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "温热逢源",
+    "bookId": "hf_18f39cb8c2",
+    "title": "温热逢源"
+   }
+  ]
+ },
+ {
+  "name": "汪昂",
+  "dynasty": "清",
+  "title": "普及医学大家",
+  "works": [
+   "医方集解",
+   "汤头歌诀",
+   "本草备要"
+  ],
+  "thought": "汇通诸家，编撰歌诀方书，使医方药性朗朗上口，便于入门诵习。",
+  "contribution": "《汤头歌诀》《本草备要》至今为中医入门必读书。",
+  "school": "方剂学",
+  "books": [
+   {
+    "id": "tangtou",
+    "title": "汤头歌诀"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "医方集解",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "汤头歌诀",
+    "bookId": "tangtou",
+    "title": "汤头歌诀"
+   },
+   {
+    "name": "本草备要",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "汪琥",
+  "dynasty": "清",
+  "title": "《内经》类纂注家",
+  "school": "医经注家",
+  "works": [
+   "素问灵枢类纂约注"
+  ],
+  "thought": "分类纂辑《素问》《灵枢》原文，附以约注。",
+  "contribution": "《内经》分类约注本。",
+  "books": [
+   {
+    "id": "hf_5a48623f6f",
+    "title": "素问灵枢类纂约注"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "素问灵枢类纂约注",
+    "bookId": "hf_5a48623f6f",
+    "title": "素问灵枢类纂约注"
+   }
+  ]
+ },
+ {
+  "name": "沈金鳌",
+  "dynasty": "清",
+  "title": "纲目体伤寒整理者",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒论纲目",
+   "杂病源流犀烛"
+  ],
+  "thought": "以纲目体例重编《伤寒论》条文，按症类聚，便于检索。",
+  "contribution": "《杂病源流犀烛》为杂病源流研究名著。",
+  "books": [
+   {
+    "id": "hf_14584e07bd",
+    "title": "伤寒论纲目"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒论纲目",
+    "bookId": "hf_14584e07bd",
+    "title": "伤寒论纲目"
+   },
+   {
+    "name": "杂病源流犀烛",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "王士雄（王孟英）",
+  "dynasty": "清",
+  "title": "温病集大成者",
+  "school": "温病学派",
+  "works": [
+   "温热经纬",
+   "霍乱论",
+   "随息居饮食谱"
+  ],
+  "thought": "辑《内经》《伤寒》及叶桂、薛雪诸家温病之论而成《温热经纬》；重湿热与霍乱辨治。",
+  "contribution": "温病学文献集成与临床大家。",
+  "books": [
+   {
+    "id": "hf_bc396d2549",
+    "title": "温热经纬"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "温热经纬",
+    "bookId": "hf_bc396d2549",
+    "title": "温热经纬"
+   },
+   {
+    "name": "霍乱论",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "随息居饮食谱",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "王清任",
+  "dynasty": "清",
+  "title": "瘀血学说大家",
+  "works": [
+   "医林改错"
+  ],
+  "thought": "亲验脏腑四十余年，订正古说；「治病之要诀，在明白气血」；创五逐瘀汤、补阳还五汤。",
+  "contribution": "活血化瘀学说里程碑，逐瘀诸方至今广泛用于临床。",
+  "school": "瘀血学说",
+  "books": [
+   {
+    "id": "yilingaicuo",
+    "title": "医林改错"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "医林改错",
+    "bookId": "yilingaicuo",
+    "title": "医林改错"
+   }
+  ]
+ },
+ {
+  "name": "罗美",
+  "dynasty": "清",
+  "title": "《内经博议》作者",
+  "school": "医经注家",
+  "works": [
+   "内经博议"
+  ],
+  "thought": "以札记体讨论《内经》要义，兼及诸家学说。",
+  "contribution": "清代《内经》研究札记。",
+  "books": [
+   {
+    "id": "hf_41a6c30222",
+    "title": "内经博议"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "内经博议",
+    "bookId": "hf_41a6c30222",
+    "title": "内经博议"
+   }
+  ]
+ },
+ {
+  "name": "胡澍",
+  "dynasty": "清",
+  "title": "《素问》校勘学家",
+  "school": "考据学派",
+  "works": [
+   "黄帝内经素问校义"
+  ],
+  "thought": "以小学（文字音韵训诂）校勘《素问》，订正讹字。",
+  "contribution": "《素问》文字校勘的代表作。",
+  "books": [
+   {
+    "id": "hf_6ee61ecfa7",
+    "title": "黄帝内经素问校义"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "黄帝内经素问校义",
+    "bookId": "hf_6ee61ecfa7",
+    "title": "黄帝内经素问校义"
+   }
+  ]
+ },
+ {
+  "name": "薛雪（薛生白）",
+  "dynasty": "清",
+  "title": "湿热病大家",
+  "works": [
+   "湿热条辨"
+  ],
+  "thought": "系统论述湿热病病因病机与治法，「湿热之邪从表伤者十之一二，由口鼻入者十之八九」。",
+  "contribution": "湿热病专论之祖。",
+  "school": "温病学派",
+  "books": [
+   {
+    "id": "hf_a5b5b819f9",
+    "title": "湿热病篇"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "湿热条辨",
+    "bookId": "hf_a5b5b819f9",
+    "title": "湿热病篇"
+   }
+  ]
+ },
+ {
+  "name": "钱潢",
+  "dynasty": "清",
+  "title": "伤寒溯源者",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒溯源集"
+  ],
+  "thought": "追本溯源，考辨《伤寒论》条文与方义，兼采诸家。",
+  "contribution": "清代伤寒溯源研究的代表。",
+  "books": [
+   {
+    "id": "hf_6120f43b9d",
+    "title": "伤寒溯源集"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒溯源集",
+    "bookId": "hf_6120f43b9d",
+    "title": "伤寒溯源集"
+   }
+  ]
+ },
+ {
+  "name": "高世栻",
+  "dynasty": "清",
+  "title": "通俗伤寒读本作者",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒大白"
+  ],
+  "thought": "以明白易晓之文阐伤寒，为初学入门而作。",
+  "contribution": "清代伤寒入门读本。",
+  "books": [
+   {
+    "id": "hf_5557fe827e",
+    "title": "伤寒大白"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒大白",
+    "bookId": "hf_5557fe827e",
+    "title": "伤寒大白"
+   }
+  ]
+ },
+ {
+  "name": "高士宗",
+  "dynasty": "清",
+  "title": "《素问直解》作者",
+  "school": "医经注家",
+  "works": [
+   "黄帝素问直解"
+  ],
+  "thought": "以明白晓畅之文直解《素问》，删繁就简，便于诵习。",
+  "contribution": "《素问》通俗注解的典范。",
+  "books": [
+   {
+    "id": "hf_9deb8664bf",
+    "title": "黄帝素问直解"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "黄帝素问直解",
+    "bookId": "hf_9deb8664bf",
+    "title": "黄帝素问直解"
+   }
+  ]
+ },
+ {
+  "name": "高学山",
+  "dynasty": "清",
+  "title": "《金匮》注家",
+  "school": "伤寒学派",
+  "works": [
+   "高注金匮要略"
+  ],
+  "thought": "逐篇注解《金匮要略》，于杂病辨证与方义多所发挥。",
+  "contribution": "《金匮》注本之一。",
+  "books": [
+   {
+    "id": "hf_7f7f354740",
+    "title": "高注金匮要略"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "高注金匮要略",
+    "bookId": "hf_7f7f354740",
+    "title": "高注金匮要略"
+   }
+  ]
+ },
+ {
+  "name": "高秉钧",
+  "dynasty": "清",
+  "title": "温病入门书作者",
+  "school": "温病学派",
+  "works": [
+   "温病指南"
+  ],
+  "thought": "以简明体例括温病辨证与治法，为初学指南。",
+  "contribution": "温病入门读物。",
+  "books": [
+   {
+    "id": "hf_0976fe1fc9",
+    "title": "温病指南"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "温病指南",
+    "bookId": "hf_0976fe1fc9",
+    "title": "温病指南"
+   }
+  ]
+ },
+ {
+  "name": "黄元御",
+  "dynasty": "清",
+  "title": "一气周流说创立者",
+  "school": "医经注家",
+  "works": [
+   "伤寒悬解",
+   "四圣心源",
+   "长沙药解"
+  ],
+  "thought": "以「一气周流、土枢四象」解释阴阳升降与脏腑气化，尊黄帝岐伯仲景为四圣。",
+  "contribution": "独创气化理论体系，影响后世运气与脾胃学说。",
+  "books": [
+   {
+    "id": "hf_ab4528434b",
+    "title": "伤寒悬解"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒悬解",
+    "bookId": "hf_ab4528434b",
+    "title": "伤寒悬解"
+   },
+   {
+    "name": "四圣心源",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "长沙药解",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "余师愚",
+  "dynasty": "清",
+  "title": "疫疹专论大家",
+  "school": "温病学派",
+  "works": [
+   "疫疹一得"
+  ],
+  "thought": "论疫疹由「热毒在胃、外溢肌表」，创清瘟败毒饮大剂石膏直折火毒。",
+  "contribution": "疫疹辨治与清瘟败毒饮的创立者。",
+  "books": [],
+  "works_status": [
+   {
+    "name": "疫疹一得",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "曹颖甫",
+  "dynasty": "清末民国",
+  "title": "经方大家",
+  "school": "经方派",
+  "works": [
+   "曹氏伤寒金匮发微",
+   "经方实验录"
+  ],
+  "thought": "主张「考验实用」，以亲历验案阐发经方，反对空谈。",
+  "contribution": "近代经方临床的代表人物。",
+  "books": [
+   {
+    "id": "hf_44a1b04b9b",
+    "title": "曹氏伤寒金匮发微"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "曹氏伤寒金匮发微",
+    "bookId": "hf_44a1b04b9b",
+    "title": "曹氏伤寒金匮发微"
+   },
+   {
+    "name": "经方实验录",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "张锡纯",
+  "dynasty": "清末民国",
+  "title": "衷中参西第一人",
+  "school": "中西汇通",
+  "works": [
+   "医学衷中参西录"
+  ],
+  "thought": "以中医为本、参以西医之理，重药性与实践，创镇肝熄风汤、升陷汤等。",
+  "contribution": "中西汇通学派的开创者与临床大家。",
+  "books": [],
+  "works_status": [
+   {
+    "name": "医学衷中参西录",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "陆渊雷",
+  "dynasty": "民国",
+  "title": "以科学释伤寒者",
+  "school": "中西汇通",
+  "works": [
+   "伤寒论今释",
+   "金匮要略今释"
+  ],
+  "thought": "以现代医学知识解释《伤寒论》方证，倡「方证相应」。",
+  "contribution": "近代伤寒研究的科学化尝试。",
+  "books": [
+   {
+    "id": "shanghanlun",
+    "title": "伤寒论"
+   },
+   {
+    "id": "jinkui",
+    "title": "金匮要略"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒论今释",
+    "bookId": "shanghanlun",
+    "title": "伤寒论"
+   },
+   {
+    "name": "金匮要略今释",
+    "bookId": "jinkui",
+    "title": "金匮要略"
+   }
+  ]
+ },
+ {
+  "name": "恽铁樵",
+  "dynasty": "民国",
+  "title": "中西医汇通先驱",
+  "school": "中西汇通",
+  "works": [
+   "群经见智录",
+   "伤寒论研究"
+  ],
+  "thought": "以近代科学解释中医理论，主张「中医有科学价值」。",
+  "contribution": "近代中医理论革新与汇通先驱。",
+  "books": [
+   {
+    "id": "shanghanlun",
+    "title": "伤寒论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "群经见智录",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "伤寒论研究",
+    "bookId": "shanghanlun",
+    "title": "伤寒论"
+   }
+  ]
+ },
+ {
+  "name": "胡希恕",
+  "dynasty": "现代",
+  "title": "经方学派大家",
+  "school": "经方派",
+  "works": [
+   "伤寒论讲座",
+   "金匮要略讲座"
+  ],
+  "thought": "倡「六经八纲」辨证，方证对应，认为《伤寒论》重在辨方证。",
+  "contribution": "现代经方学派的代表。",
+  "books": [
+   {
+    "id": "shanghanlun",
+    "title": "伤寒论"
+   },
+   {
+    "id": "jinkui",
+    "title": "金匮要略"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒论讲座",
+    "bookId": "shanghanlun",
+    "title": "伤寒论"
+   },
+   {
+    "name": "金匮要略讲座",
+    "bookId": "jinkui",
+    "title": "金匮要略"
+   }
+  ]
+ },
+ {
+  "name": "刘渡舟",
+  "dynasty": "现代",
+  "title": "伤寒学大家",
+  "school": "伤寒学派",
+  "works": [
+   "伤寒论通俗讲话",
+   "伤寒论十四讲"
+  ],
+  "thought": "以六经辨证为纲，重气机升降与水气病辨治，桃核承气汤诸案影响深远。",
+  "contribution": "现代伤寒学教育与临床的代表。",
+  "books": [
+   {
+    "id": "shanghanlun",
+    "title": "伤寒论"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "伤寒论通俗讲话",
+    "bookId": "shanghanlun",
+    "title": "伤寒论"
+   },
+   {
+    "name": "伤寒论十四讲",
+    "bookId": "shanghanlun",
+    "title": "伤寒论"
+   }
+  ]
+ },
+ {
+  "name": "丹波元简",
+  "dynasty": "日本江户",
+  "title": "日本汉方考证大家",
+  "school": "考据学派",
+  "works": [
+   "金匮玉函要略辑义",
+   "素问识",
+   "灵枢识"
+  ],
+  "thought": "以考据方法辑录《金匮》《素问》《灵枢》诸家注，重视版本校勘。",
+  "contribution": "日本汉方医学考证学派的代表，辑义精审。",
+  "books": [
+   {
+    "id": "hf_6cd4e95ec3",
+    "title": "金匮玉函要略辑义"
+   }
+  ],
+  "works_status": [
+   {
+    "name": "金匮玉函要略辑义",
+    "bookId": "hf_6cd4e95ec3",
+    "title": "金匮玉函要略辑义"
+   },
+   {
+    "name": "素问识",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "灵枢识",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "葛洪",
+  "dynasty": "东晋",
+  "title": "急症先驱",
+  "works": [
+   "肘后备急方",
+   "抱朴子"
+  ],
+  "thought": "收录简便廉验之急救方剂，最早记载青蒿治疟、狂犬病防治等。",
+  "contribution": "急症医学与民间验方集大成者，青蒿素之源头文献。",
+  "school": "急症与方书",
+  "books": [],
+  "works_status": [
+   {
+    "name": "肘后备急方",
+    "bookId": "",
+    "title": ""
+   },
+   {
+    "name": "抱朴子",
+    "bookId": "",
+    "title": ""
+   }
+  ]
+ }
+]
